@@ -2,6 +2,7 @@ import random as rd
 print('''This is a Guessing game where you have only 3 chances to guess my correct number.
                                Good Luck!!
       ''')
+guess = True
 n = 50
 guess_limit = 3
 guess_count = 0
